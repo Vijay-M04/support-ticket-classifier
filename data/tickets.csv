@@ -1,0 +1,37 @@
+text,category
+"My credit card was charged twice for the same order",Billing
+"I was charged an incorrect amount on my invoice",Billing
+"I need help understanding my latest bill",Billing
+"My payment was declined",Billing
+"I want to update my billing information",Billing
+"I was charged for a service I did not purchase",Billing
+"The application keeps crashing when I open it",Technical Issue
+"The website is not working properly",Technical Issue
+"I am getting an error when trying to upload a file",Technical Issue
+"The app freezes every time I try to use it",Technical Issue
+"I cannot connect to the application",Technical Issue
+"The system shows an unexpected error",Technical Issue
+"I cannot login to my account",Account Access
+"My account is locked",Account Access
+"I forgot my password and cannot access my account",Account Access
+"Please help me recover my account",Account Access
+"I cannot access my profile",Account Access
+"My login credentials are not working",Account Access
+"My package has not arrived yet",Shipping
+"Where is my order",Shipping
+"My delivery is delayed",Shipping
+"I want to track my shipment",Shipping
+"The package was supposed to arrive yesterday",Shipping
+"My order has not been delivered",Shipping
+"I want a refund for my purchase",Refund
+"Please refund my recent payment",Refund
+"I received the wrong product and want my money back",Refund
+"How can I request a refund",Refund
+"I would like to cancel my order and get a refund",Refund
+"Can you process a refund for my purchase",Refund
+"The product I received is damaged",Product Issue
+"The item I ordered is broken",Product Issue
+"I received a defective product",Product Issue
+"The product does not work",Product Issue
+"There is a problem with the item I received",Product Issue
+"The product quality is very poor",Product Issue
